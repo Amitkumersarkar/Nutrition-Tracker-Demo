@@ -1,4 +1,3 @@
-// Replace the placeholders with your Firebase config values from the Firebase Console
 import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
